@@ -1,0 +1,2 @@
+# documentPractice
+設計書を構成管理する練習を行う目的で作成
